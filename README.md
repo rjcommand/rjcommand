@@ -15,6 +15,6 @@ Just a guy who likes the ocean and spends too much time at his desk 🌊
 - 🌱 I’m currently learning ...
   - 🗺️ Geocomputation in R
   - 💻 Machine learning
-  - 🍉 Reproducibile research pipelines
+  - 🍉 RShiny
 
 - 😄 Pronouns: he/him/his
